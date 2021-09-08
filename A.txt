@@ -1,2 +1,3 @@
 git config --global user.name "Minh"
 git config --global user.email "ngquangminh349@gmail.com"
+git config credential.helper store
